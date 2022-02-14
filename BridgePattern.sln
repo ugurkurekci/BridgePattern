@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{3AB70202-5C95-4A42-AE20-6088A0B0D082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlers", "Handlers\Handlers.csproj", "{D2D2FECC-8836-4F0F-A5FB-410BE56ED1B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{FB487571-194A-42DD-A549-4B893968890C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB70202-5C95-4A42-AE20-6088A0B0D082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB70202-5C95-4A42-AE20-6088A0B0D082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB70202-5C95-4A42-AE20-6088A0B0D082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB70202-5C95-4A42-AE20-6088A0B0D082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D2FECC-8836-4F0F-A5FB-410BE56ED1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D2FECC-8836-4F0F-A5FB-410BE56ED1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D2FECC-8836-4F0F-A5FB-410BE56ED1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D2FECC-8836-4F0F-A5FB-410BE56ED1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB487571-194A-42DD-A549-4B893968890C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB487571-194A-42DD-A549-4B893968890C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB487571-194A-42DD-A549-4B893968890C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB487571-194A-42DD-A549-4B893968890C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C7AE2F-894F-4430-A29C-EDBEE5245BE2}
+	EndGlobalSection
+EndGlobal
